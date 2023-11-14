@@ -1,4 +1,4 @@
-# halaqat_alhudaa_app
+# school_app
 
 A new Flutter project.
 
